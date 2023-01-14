@@ -33,6 +33,7 @@ com\js\jis\Security\Service\RolService.class
 com\js\jis\Security\Dto\LoginUsuario.class
 com\js\jis\Security\Controller\AuthController.class
 com\js\jis\Security\Repository\IRolRepository.class
+.netbeans_automatic_build
 com\js\jis\Dto\dtoExperiencia.class
 com\js\jis\Security\jwt\JwtProvider.class
 com\js\jis\Repository\RSkills.class
