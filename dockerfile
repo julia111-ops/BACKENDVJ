@@ -1,4 +1,4 @@
-FROM amazoncorretto:19-alpine-jdk
+FROM amazoncorretto:18-alpine-jdk
 
 MAINTAINER js
 
